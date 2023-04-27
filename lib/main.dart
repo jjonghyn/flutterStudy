@@ -1,10 +1,7 @@
 import 'package:flutter/material.dart';
 
 
-//git branch test main..
-
-//git branch test..
-//두번째 깃 브랜치 테스트..
+//이곳은 메인 브랜치 입니다.
 
 void main() {
   runApp(const MyApp());
