@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 
-
-
-//여기는 테스트브랜치
 void main() {
   runApp(const MyApp());
 }
