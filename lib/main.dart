@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-//git branch test..
-//깃 브랜치 테스트
+
+
 //여기는 테스트브랜치
 void main() {
   runApp(const MyApp());
