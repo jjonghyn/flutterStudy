@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 
-
-//이곳은 메인 브랜치 입니다.
-
 void main() {
   runApp(const MyApp());
 }
